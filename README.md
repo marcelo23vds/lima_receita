@@ -1,6 +1,6 @@
 # Receita de bolo simples
 
-![](./img/galeria.png)
+![](./img/receita.png)
 
 ## Projeto
 
